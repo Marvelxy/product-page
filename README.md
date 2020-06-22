@@ -1,7 +1,7 @@
-# One Page Blog Post with Bootstrap
+# Product page
 
-A one page blog post.
+A simple product page.
 
 ## Setup
 
-	Just place file anywhere on your computer and open the index.html file on the browser.
+	Place file anywhere on your computer and open the index.html file on the browser.
